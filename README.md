@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./glitch-portrait.svg" alt="Averill Kevinatha - glitch code portrait" width="55%" />
-</p>
-
-<p align="center">
   <img src="./id-card.svg" alt="Averill Kevinatha - Developer ID Card" width="100%" />
 </p>
 
