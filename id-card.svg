@@ -2543,12 +2543,9 @@
       <text x="120.8" y="256.2" font-family="Consolas, Menlo, monospace" font-size="5.0" fill="rgb(19,187,102)" fill-opacity="0.81" text-anchor="middle">0</text>
       <text x="126.3" y="256.2" font-family="Consolas, Menlo, monospace" font-size="5.0" fill="rgb(20,190,103)" fill-opacity="0.82" text-anchor="middle">1</text>
   </g>
-  <circle cx="118" cy="185" r="72" fill="none" stroke="url(#borderGrad)" stroke-width="2.5"/>
-  <circle cx="118" cy="185" r="72" fill="none" stroke="#39ff6a" stroke-width="0.6" stroke-opacity="0.5"/>
 
   <!-- status dot -->
   <circle cx="60" cy="255" r="5" fill="#39ff6a" filter="url(#softGlow)"/>
-  <text x="72" y="259" font-family="Consolas, monospace" font-size="12" fill="#9be8ab">ONLINE</text>
 
   <!-- name & title -->
   <text x="228" y="130" font-family="Arial, sans-serif" font-size="34" fill="#ffffff" font-weight="800" letter-spacing="1">AVERILL KEVINATHA</text>
